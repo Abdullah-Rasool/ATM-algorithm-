@@ -1,0 +1,27 @@
+{
+  "name": "atm-algorithm-",
+  "version": "1.0.0",
+  "description": "CLI based ATM algorithm using typescript with inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullah-Rasool/ATM-algorithm-.git"
+  },
+  "author": "Abdullah Rasool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdullah-Rasool/ATM-algorithm-/issues"
+  },
+  "homepage": "https://github.com/Abdullah-Rasool/ATM-algorithm-#readme",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
