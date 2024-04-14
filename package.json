@@ -1,6 +1,6 @@
 {
-  "name": "atm-algorithm-",
-  "version": "1.0.0",
+  "name": "ar-atm-algorithm-",
+  "version": "1.0.1",
   "description": "CLI based ATM algorithm using typescript with inquirer",
   "main": "index.js",
   "type": "module",
